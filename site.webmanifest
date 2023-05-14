@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwE_Lwoq6tqd2SN2ntaSjCWeAEEvKQcEbE56tV6hpcGQfABgzImu0HBPKDFP1TiJ5XsrAfbIL_dVnyOmSBfwE5HyRneP-BaCUWjfenkM1pGUQKl7KQj3uK-oxJyYjWfpaa2UuUJi_T6OPdAg7eQQHBpnHqGKYSOhkFTaYAw34YOeUWgmTyS_b6csfwiA/s192/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpSjubS6P2u4Y8AIiBoJujogWsH0SwA7EGIOJB20KjWQFI3U4LggzRl3SpnrIH41nfeN_jB4xhgHzbTciPi3iiy-jgYeYOlJwmphpzniBI91_4dOQwXy5baBZ1wz7VW6M3YpSEdXwEPJjUYK2x4zxOqHdpe620gUoiUOcNb5yQ2hK72_nEv71geXec6g/s512/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
