@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/mstile-150x150.png"/>
+            <square150x150logo src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKENwTMURJ0T9DzTBrR8QMbYaWyBVz1NBirVyqEHvwVw3nhoKn-Mw2PCvQY4SXZDWh6j2OaYVOEz9atc5R6vuPnc-pEiezthAk7OVF8wR0Ngkj9q3Y7CUhYmSJddw7_sxhIaAggT8--BKhm8s4ZtU0S6LtOGe2VrQXE4FGHO6YfxSWEvGnkgx-EhkG1w/s270/mstile-150x150.png"/>
             <TileColor>#00aba9</TileColor>
         </tile>
     </msapplication>
